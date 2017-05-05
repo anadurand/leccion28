@@ -18,3 +18,7 @@ div{
 .second-part div{
   float: left;
 }
+/*css de la tercera parte (float right)*/
+.third-part div{
+  float: right;
+}
