@@ -1,6 +1,12 @@
-section{
-  margin: 3%;
+body{
+  box-sizing: border-box;
+  padding: 0 3% 10% 0;
 }
+section{
+  margin: 4%;
+  clear: both;
+}
+
 div{
   width: 30%;
   height: 200px;
@@ -21,4 +27,10 @@ div{
 /*css de la tercera parte (float right)*/
 .third-part div{
   float: right;
+}
+.third-part h1{
+  margin: 2% 0;
+}
+.third-part{
+  padding: 5% 0;
 }
