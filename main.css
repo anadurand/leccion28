@@ -1,3 +1,6 @@
+section{
+  margin: 3%;
+}
 div{
   width: 30%;
   height: 200px;
@@ -10,4 +13,8 @@ div{
 }
 .rojo{
   background-color: red;
+}
+/*css de la segunda parte*/
+.second-part div{
+  float: left;
 }
